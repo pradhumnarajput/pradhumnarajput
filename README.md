@@ -1,12 +1,19 @@
-### I'm pradhumna.. I like coding
+# Hi there, I'm Pradhumna ! 👋
 
-<!--
-**pradhumnarajput/pradhumnarajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd Year undergrad with a passion for coding. In my free time, I enjoy playing video games.
 
-Here are some ideas to get you started:
+## 🔭 Current Work
 
-### 🔭 I’m currently working on some personal projects
-### 🌱 I’m currently learning c++
-### 👯 I’m looking to collaborate on gfg guilds
-### 📫 How to reach me: instagram (kinda._.different)
-### ⚡ Fun fact: I'm someone you wish you've met me before
+I'm currently working on a full stack web application.
+
+## 🌱 Learning
+
+I'm always learning new things, and currently, I'm focusing on Data Structures and Agorithms, Full Stack Web Development.
+
+## 📫 Contact
+
+You can reach me at https://www.linkedin.com/in/pradhumna-rajput-38b954179/. I'm always interested in connecting with new people, so feel free to say hello!
+
+## 💬 Let's chat!
+
+I'm always up for a chat, so don't hesitate to message me about anything that interests you. 
