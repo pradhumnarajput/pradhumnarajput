@@ -4,7 +4,7 @@ I'm a 3rd Year undergrad with a passion for coding. In my free time, I enjoy pla
 
 ## 🔭 Current Work
 
-I'm currently working on a full stack web application.
+I'm currently working on a website that allows you to manage your valorant inventory while minimizing your purchase amount.
 
 ## 🌱 Learning
 
